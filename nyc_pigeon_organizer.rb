@@ -62,29 +62,6 @@ end
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #
 # def build_initial_structure
 #   #new data structure to fill in list of names
